@@ -9,6 +9,7 @@ https://drive.google.com/drive/folders/1AjBHqC4buD_BFndavo2S3dfSTEvVukPf?usp=sha
 
 Equipo "Requin"
 Integrantes:
+
 Garcia Lorenzana Erick Daniel
 
 Gonzales Vargas Alfredo Zenif
