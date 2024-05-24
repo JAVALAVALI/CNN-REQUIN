@@ -7,6 +7,10 @@ https://colab.research.google.com/drive/1wVnLmxwgU8fAZp7qoQlvoCWcRWfeDwgp?usp=sh
 Link a la carpeta de Drive con las imágenes de entrenameinto: 
 https://drive.google.com/drive/folders/1AjBHqC4buD_BFndavo2S3dfSTEvVukPf?usp=sharing
 
+Link para probar el modelo:
+https://cnn-requin.onrender.com/test.html
+
+
 Equipo "Requin"
 Integrantes:
 
