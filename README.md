@@ -12,7 +12,7 @@ Integrantes:
 
 Garcia Lorenzana Erick Daniel
 
-Gonzales Vargas Alfredo Zenif
+Gonzáles Vargas Alfredo Zenif
 
 Benitez Ramos Ricardo Yualian
 
