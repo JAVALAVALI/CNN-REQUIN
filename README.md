@@ -8,6 +8,12 @@ Link a la carpeta de Drive con las imágenes de entrenameinto:
 https://drive.google.com/drive/folders/1AjBHqC4buD_BFndavo2S3dfSTEvVukPf?usp=sharing
 
 Equipo "Requin"
+Integrantes:
+Garcia Lorenzana Erick Daniel
+Gonzales Vargas Alfredo Zenif
+Benitez Ramos Ricardo Yualian
+Bienenwald Rodriguez Samuel
+
 Sistemas Operativos, grupo 2259.     
 I.T.S.E    
 FESC C.4 UNAM
